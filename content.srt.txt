@@ -1,0 +1,3608 @@
+1
+00:00:01,000 --> 00:00:11,000
+[Music]
+
+2
+00:00:08,000 --> 00:00:13,000
+all right hello everyone
+
+3
+00:00:11,000 --> 00:00:16,000
+I've got a lot of content to get through
+
+4
+00:00:13,000 --> 00:00:18,000
+so I'm gonna move fast Buckle in if you
+
+5
+00:00:17,000 --> 00:00:21,000
+are looking for a startup idea right now
+
+6
+00:00:19,000 --> 00:00:22,000
+I'm going to try to help but more
+
+7
+00:00:21,000 --> 00:00:24,000
+importantly I'm going to try to give you
+
+8
+00:00:22,000 --> 00:00:26,000
+the conceptual tools to think about
+
+9
+00:00:24,000 --> 00:00:28,000
+startup ideas in a sophisticated way the
+
+10
+00:00:27,000 --> 00:00:31,000
+way that we think about them at YC
+
+11
+00:00:28,000 --> 00:00:33,000
+here's the thing uh no one not even YC
+
+12
+00:00:31,000 --> 00:00:36,000
+knows for sure which ideas will succeed
+
+13
+00:00:34,000 --> 00:00:38,000
+and in any case if your idea succeeds
+
+14
+00:00:37,000 --> 00:00:41,000
+has much to do with how well you execute
+
+15
+00:00:38,000 --> 00:00:43,000
+as your initial idea anyway but certain
+
+16
+00:00:41,000 --> 00:00:45,000
+ideas are much more likely to succeed
+
+17
+00:00:43,000 --> 00:00:47,000
+than others and so my goal here is to
+
+18
+00:00:46,000 --> 00:00:50,000
+help you stack the deck in your favor by
+
+19
+00:00:48,000 --> 00:00:51,000
+starting with a promising idea the
+
+20
+00:00:50,000 --> 00:00:55,000
+advice in this talk came from several
+
+21
+00:00:52,000 --> 00:00:57,000
+places first I analyzed the top 100 YC
+
+22
+00:00:55,000 --> 00:00:58,000
+companies by evaluation and I looked at
+
+23
+00:00:57,000 --> 00:01:01,000
+how they all got their idea so I started
+
+24
+00:00:59,000 --> 00:01:02,000
+with some hard quantitative data on how
+
+25
+00:01:01,000 --> 00:01:05,000
+recent billion dollar companies actually
+
+26
+00:01:03,000 --> 00:01:07,000
+came up with their idea it also draws on
+
+27
+00:01:06,000 --> 00:01:09,000
+a classic essay by Paul Graham that I
+
+28
+00:01:08,000 --> 00:01:11,000
+really recommend it's called how to get
+
+29
+00:01:09,000 --> 00:01:12,000
+startup ideas
+
+30
+00:01:11,000 --> 00:01:14,000
+um it also comes from helping YC
+
+31
+00:01:12,000 --> 00:01:15,000
+companies that pivot in the middle of
+
+32
+00:01:15,000 --> 00:01:19,000
+the batch and learning over the years
+
+33
+00:01:16,000 --> 00:01:20,000
+what advice helps them to find a new
+
+34
+00:01:19,000 --> 00:01:22,000
+good startup idea
+
+35
+00:01:20,000 --> 00:01:24,000
+and then finally it comes from Reading
+
+36
+00:01:23,000 --> 00:01:27,000
+thousands of YC applications that we
+
+37
+00:01:25,000 --> 00:01:29,000
+rejected and looking at the mistakes
+
+38
+00:01:27,000 --> 00:01:30,000
+that caused good Founders to come up
+
+39
+00:01:29,000 --> 00:01:32,000
+with bad ideas and those are the
+
+40
+00:01:31,000 --> 00:01:35,000
+mistakes I want to help you all avoid
+
+41
+00:01:33,000 --> 00:01:36,000
+this Talk's got three parts first I'm
+
+42
+00:01:35,000 --> 00:01:37,000
+going to tell you the most common
+
+43
+00:01:36,000 --> 00:01:38,000
+mistakes Founders make with startup
+
+44
+00:01:38,000 --> 00:01:40,000
+ideas
+
+45
+00:01:39,000 --> 00:01:42,000
+then I'm going to talk about how to know
+
+46
+00:01:40,000 --> 00:01:44,000
+if your idea is good and then about how
+
+47
+00:01:42,000 --> 00:01:46,000
+to come up with new ones okay the four
+
+48
+00:01:45,000 --> 00:01:49,000
+most common mistakes with startup ideas
+
+49
+00:01:47,000 --> 00:01:51,000
+so the most common mistake is just
+
+50
+00:01:49,000 --> 00:01:53,000
+building something that doesn't solve a
+
+51
+00:01:51,000 --> 00:01:54,000
+real problem for your users typically
+
+52
+00:01:54,000 --> 00:01:56,000
+you can
+
+53
+00:01:55,000 --> 00:01:58,000
+articulate the problem that you're
+
+54
+00:01:57,000 --> 00:02:00,000
+solving you can put it in words but when
+
+55
+00:01:59,000 --> 00:02:03,000
+you actually go and talk to the users
+
+56
+00:02:00,000 --> 00:02:03,000
+it's just not something that they really
+
+57
+00:02:03,000 --> 00:02:06,000
+care about
+
+58
+00:02:04,000 --> 00:02:08,000
+we call it a solution in search of a
+
+59
+00:02:06,000 --> 00:02:10,000
+problem or a cisp
+
+60
+00:02:09,000 --> 00:02:13,000
+let's go through an example so a lot of
+
+61
+00:02:11,000 --> 00:02:16,000
+Founders come up with an idea with this
+
+62
+00:02:13,000 --> 00:02:19,000
+kind of thought process they go hmm AI
+
+63
+00:02:16,000 --> 00:02:21,000
+is cool what could I apply AI to
+
+64
+00:02:20,000 --> 00:02:23,000
+and then they go look for a problem that
+
+65
+00:02:21,000 --> 00:02:24,000
+they could solve with AI That's a
+
+66
+00:02:24,000 --> 00:02:27,000
+solution in search of a problem and the
+
+67
+00:02:25,000 --> 00:02:29,000
+reason it's dangerous is that if you do
+
+68
+00:02:27,000 --> 00:02:31,000
+that you'll probably find a problem but
+
+69
+00:02:30,000 --> 00:02:33,000
+it will it will be a superficially
+
+70
+00:02:31,000 --> 00:02:34,000
+plausible problem it'll be a made-up
+
+71
+00:02:33,000 --> 00:02:36,000
+problem that people don't really care
+
+72
+00:02:35,000 --> 00:02:39,000
+about rather than a real problem that
+
+73
+00:02:37,000 --> 00:02:40,000
+people actually care about
+
+74
+00:02:39,000 --> 00:02:42,000
+and if people don't really care about
+
+75
+00:02:40,000 --> 00:02:44,000
+the problem they won't really care about
+
+76
+00:02:43,000 --> 00:02:48,000
+your solution so instead you want to
+
+77
+00:02:45,000 --> 00:02:49,000
+fall in love with a problem
+
+78
+00:02:48,000 --> 00:02:53,000
+the best way to find a startup idea is
+
+79
+00:02:50,000 --> 00:02:54,000
+to start with a high quality problem now
+
+80
+00:02:53,000 --> 00:02:57,000
+Sunrise Founders hear this and they
+
+81
+00:02:55,000 --> 00:02:59,000
+decide to interpret that as guidance to
+
+82
+00:02:58,000 --> 00:03:02,000
+work on some like huge societal problem
+
+83
+00:03:00,000 --> 00:03:03,000
+like I don't know Global poverty or
+
+84
+00:03:02,000 --> 00:03:05,000
+something
+
+85
+00:03:03,000 --> 00:03:06,000
+um no doubt those are real problems but
+
+86
+00:03:05,000 --> 00:03:07,000
+they're they're too abstract to make
+
+87
+00:03:07,000 --> 00:03:10,000
+good starting points for startup ideas
+
+88
+00:03:08,000 --> 00:03:11,000
+you need something that's more specific
+
+89
+00:03:10,000 --> 00:03:12,000
+something that's tractable with a
+
+90
+00:03:11,000 --> 00:03:15,000
+startup the next mistake is getting
+
+91
+00:03:13,000 --> 00:03:19,000
+stuck on what we call tar pit ideas
+
+92
+00:03:16,000 --> 00:03:21,000
+what's a tar pit idea so there's this
+
+93
+00:03:19,000 --> 00:03:23,000
+certain set of common startup ideas that
+
+94
+00:03:22,000 --> 00:03:26,000
+have been around for forever they have
+
+95
+00:03:24,000 --> 00:03:28,000
+been applying inroves to YC batch after
+
+96
+00:03:26,000 --> 00:03:30,000
+batch for years and when founders start
+
+97
+00:03:29,000 --> 00:03:32,000
+working on these ideas it's like they've
+
+98
+00:03:31,000 --> 00:03:35,000
+gotten stuck in tar they never seem to
+
+99
+00:03:33,000 --> 00:03:37,000
+go anywhere so we call them tar pit
+
+100
+00:03:35,000 --> 00:03:39,000
+ideas here's what causes tarpet ideas
+
+101
+00:03:37,000 --> 00:03:40,000
+they all form around some like
+
+102
+00:03:40,000 --> 00:03:44,000
+widespread problem that lots of
+
+103
+00:03:41,000 --> 00:03:45,000
+potential Founders encounter and it's a
+
+104
+00:03:44,000 --> 00:03:47,000
+problem it seems like it could be easily
+
+105
+00:03:46,000 --> 00:03:50,000
+solved with a startup but it's an
+
+106
+00:03:48,000 --> 00:03:52,000
+illusion there's actually a structural
+
+107
+00:03:50,000 --> 00:03:54,000
+reason why it's very hard or impossible
+
+108
+00:03:52,000 --> 00:03:56,000
+to solve which is why after all these
+
+109
+00:03:54,000 --> 00:03:57,000
+years no one has solved it
+
+110
+00:03:56,000 --> 00:03:59,000
+and you can see why ideas like this
+
+111
+00:03:58,000 --> 00:04:01,000
+would be so dangerous why they will
+
+112
+00:04:00,000 --> 00:04:03,000
+cause so many Founders to waste months
+
+113
+00:04:02,000 --> 00:04:05,000
+of their life stuck on a tarpet like
+
+114
+00:04:04,000 --> 00:04:07,000
+they're very tantalizing from a distance
+
+115
+00:04:05,000 --> 00:04:08,000
+because they're so superficially
+
+116
+00:04:07,000 --> 00:04:10,000
+plausible as startup ideas here's a
+
+117
+00:04:09,000 --> 00:04:12,000
+concrete example this is a very common
+
+118
+00:04:11,000 --> 00:04:14,000
+tarpet idea that's been applied to YC
+
+119
+00:04:12,000 --> 00:04:16,000
+for like 20 years this is like the
+
+120
+00:04:14,000 --> 00:04:19,000
+stereotypical college student idea and
+
+121
+00:04:17,000 --> 00:04:22,000
+it goes like this you think
+
+122
+00:04:19,000 --> 00:04:23,000
+man every Friday or Saturday Saturday
+
+123
+00:04:22,000 --> 00:04:26,000
+night when I'm making plans to meet up
+
+124
+00:04:24,000 --> 00:04:27,000
+with my friends it's so inefficient I'm
+
+125
+00:04:26,000 --> 00:04:30,000
+in all these different text threads and
+
+126
+00:04:28,000 --> 00:04:31,000
+chat groups and we're like trying to
+
+127
+00:04:30,000 --> 00:04:33,000
+make plans to meet up I'm just going to
+
+128
+00:04:32,000 --> 00:04:35,000
+make an app to make it more efficient
+
+129
+00:04:34,000 --> 00:04:37,000
+Well turns out that there are some
+
+130
+00:04:35,000 --> 00:04:39,000
+structural reasons why this idea is hard
+
+131
+00:04:37,000 --> 00:04:41,000
+which is why in like 20 years of people
+
+132
+00:04:40,000 --> 00:04:44,000
+applying to YC with this idea nobody has
+
+133
+00:04:42,000 --> 00:04:45,000
+actually pulled it off you can see why
+
+134
+00:04:44,000 --> 00:04:47,000
+so many people have been attracted to it
+
+135
+00:04:45,000 --> 00:04:48,000
+it's like it's a problem that almost
+
+136
+00:04:47,000 --> 00:04:50,000
+everyone encounters at some point and it
+
+137
+00:04:49,000 --> 00:04:51,000
+seems like it would be so easy to solve
+
+138
+00:04:51,000 --> 00:04:54,000
+like you can just imagine the app it's
+
+139
+00:04:52,000 --> 00:04:55,000
+just got like a list of events and you
+
+140
+00:04:54,000 --> 00:04:57,000
+invite friends to it like it seems so
+
+141
+00:04:55,000 --> 00:04:59,000
+simple the thing about tarpet ideas is
+
+142
+00:04:58,000 --> 00:05:02,000
+that they are not necessarily impossible
+
+143
+00:05:00,000 --> 00:05:03,000
+like I'm even open-minded that somebody
+
+144
+00:05:02,000 --> 00:05:05,000
+will eventually make the like app to
+
+145
+00:05:04,000 --> 00:05:08,000
+meet up with your friends idea of work
+
+146
+00:05:06,000 --> 00:05:11,000
+is more accurate to think of them as
+
+147
+00:05:08,000 --> 00:05:12,000
+common ideas that are much harder than
+
+148
+00:05:11,000 --> 00:05:15,000
+they seem
+
+149
+00:05:13,000 --> 00:05:19,000
+so if you want to work on one
+
+150
+00:05:15,000 --> 00:05:20,000
+um here's my advice first Google it it's
+
+151
+00:05:19,000 --> 00:05:22,000
+amazing how many Founders skip the step
+
+152
+00:05:21,000 --> 00:05:24,000
+of just like Googling for their own
+
+153
+00:05:23,000 --> 00:05:27,000
+startup idea to see who has worked on it
+
+154
+00:05:25,000 --> 00:05:29,000
+in the past you should find who's worked
+
+155
+00:05:27,000 --> 00:05:31,000
+on this in the past and actually talk to
+
+156
+00:05:29,000 --> 00:05:35,000
+them if you can try to figure out what
+
+157
+00:05:32,000 --> 00:05:37,000
+the hard part of this idea is that has
+
+158
+00:05:35,000 --> 00:05:38,000
+caused other people to not be able to
+
+159
+00:05:37,000 --> 00:05:42,000
+solve it yet the next mistake is simple
+
+160
+00:05:39,000 --> 00:05:43,000
+it is amazing how many Founders will
+
+161
+00:05:43,000 --> 00:05:46,000
+basically just like jump into the first
+
+162
+00:05:44,000 --> 00:05:47,000
+idea they have without even stopping to
+
+163
+00:05:46,000 --> 00:05:49,000
+consider whether it would actually make
+
+164
+00:05:48,000 --> 00:05:51,000
+a good business
+
+165
+00:05:49,000 --> 00:05:53,000
+but more dangerous is the founders on
+
+166
+00:05:52,000 --> 00:05:55,000
+the opposite side of the spectrum who
+
+167
+00:05:54,000 --> 00:05:57,000
+sit around waiting for the perfect
+
+168
+00:05:55,000 --> 00:05:58,000
+startup idea and of course there is no
+
+169
+00:05:57,000 --> 00:06:00,000
+such thing so these people just never
+
+170
+00:05:59,000 --> 00:06:02,000
+actually start a company so if you
+
+171
+00:06:00,000 --> 00:06:03,000
+imagine that there's like a spectrum
+
+172
+00:06:02,000 --> 00:06:05,000
+between picking the first idea that
+
+173
+00:06:04,000 --> 00:06:08,000
+comes to mind and waiting for the
+
+174
+00:06:05,000 --> 00:06:08,000
+perfect idea and you know somewhere in
+
+175
+00:06:08,000 --> 00:06:11,000
+the middle there is this like happy
+
+176
+00:06:09,000 --> 00:06:12,000
+place which is the place that you want
+
+177
+00:06:11,000 --> 00:06:15,000
+to be right and the way that Paul Graham
+
+178
+00:06:13,000 --> 00:06:18,000
+put this is that you should think of
+
+179
+00:06:15,000 --> 00:06:20,000
+your idea as a good starting point
+
+180
+00:06:19,000 --> 00:06:22,000
+new startup idea is perfect and no
+
+181
+00:06:21,000 --> 00:06:24,000
+matter what you start with it's probably
+
+182
+00:06:22,000 --> 00:06:26,000
+going to morph anyway so you just want
+
+183
+00:06:24,000 --> 00:06:28,000
+to have an initial idea that has enough
+
+184
+00:06:26,000 --> 00:06:30,000
+interesting qualities that can morph in
+
+185
+00:06:29,000 --> 00:06:32,000
+the right direction so now suppose you
+
+186
+00:06:30,000 --> 00:06:33,000
+have a startup idea and you want to know
+
+187
+00:06:32,000 --> 00:06:36,000
+if it's good I'm going to give you a
+
+188
+00:06:34,000 --> 00:06:38,000
+framework for this and the format of the
+
+189
+00:06:37,000 --> 00:06:41,000
+framework is 10 key questions to ask
+
+190
+00:06:39,000 --> 00:06:44,000
+about any startup idea so the first one
+
+191
+00:06:41,000 --> 00:06:45,000
+is do you have founder market fit if I
+
+192
+00:06:44,000 --> 00:06:48,000
+depict like one most important criteria
+
+193
+00:06:46,000 --> 00:06:50,000
+it'd probably be this one and what I
+
+194
+00:06:48,000 --> 00:06:51,000
+mean by founder market fit is just are
+
+195
+00:06:50,000 --> 00:06:53,000
+you the right team to be working on this
+
+196
+00:06:52,000 --> 00:06:55,000
+idea
+
+197
+00:06:53,000 --> 00:06:57,000
+and a great example of what good founder
+
+198
+00:06:56,000 --> 00:07:01,000
+market fit looks like is plan grid so
+
+199
+00:06:58,000 --> 00:07:03,000
+plan grid makes an iPad app to view
+
+200
+00:07:01,000 --> 00:07:05,000
+construction Blueprints and to the
+
+201
+00:07:03,000 --> 00:07:07,000
+founders of plan grid were Tracy and
+
+202
+00:07:05,000 --> 00:07:09,000
+Ralph and Tracy had worked in the
+
+203
+00:07:08,000 --> 00:07:11,000
+construction industry and she knew a lot
+
+204
+00:07:09,000 --> 00:07:13,000
+about construction and Ralph was an
+
+205
+00:07:12,000 --> 00:07:15,000
+awesome developer who was like the
+
+206
+00:07:14,000 --> 00:07:17,000
+perfect person to build this iPad out if
+
+207
+00:07:15,000 --> 00:07:18,000
+you're going to imagine a team to start
+
+208
+00:07:17,000 --> 00:07:20,000
+playing grid the team that you would
+
+209
+00:07:19,000 --> 00:07:22,000
+imagine would look you know something
+
+210
+00:07:21,000 --> 00:07:24,000
+like that and that's what good founder
+
+211
+00:07:22,000 --> 00:07:25,000
+market fit looks like it's like this
+
+212
+00:07:24,000 --> 00:07:27,000
+team is obviously the right team to work
+
+213
+00:07:26,000 --> 00:07:29,000
+on the idea in fact founder market fit
+
+214
+00:07:28,000 --> 00:07:33,000
+is so important
+
+215
+00:07:30,000 --> 00:07:36,000
+that I would recast your search for a
+
+216
+00:07:33,000 --> 00:07:38,000
+startup idea when most people go to pick
+
+217
+00:07:36,000 --> 00:07:41,000
+a startup idea they try to look for a
+
+218
+00:07:39,000 --> 00:07:43,000
+good startup idea like in the abstract
+
+219
+00:07:42,000 --> 00:07:46,000
+and instead I would think about this
+
+220
+00:07:44,000 --> 00:07:49,000
+exercise as an exercise to pick a good
+
+221
+00:07:46,000 --> 00:07:50,000
+idea for your team you with me it
+
+222
+00:07:49,000 --> 00:07:52,000
+doesn't matter if something is a good
+
+223
+00:07:51,000 --> 00:07:55,000
+startup idea for someone else if it's
+
+224
+00:07:53,000 --> 00:07:57,000
+not a good idea for your team so you may
+
+225
+00:07:56,000 --> 00:07:59,000
+as well just look for ideas that you
+
+226
+00:07:58,000 --> 00:08:01,000
+would actually be good at executing okay
+
+227
+00:07:59,000 --> 00:08:02,000
+number two how big is the market
+
+228
+00:08:01,000 --> 00:08:04,000
+obviously you need a big Market which
+
+229
+00:08:03,000 --> 00:08:07,000
+for startups typically means like a
+
+230
+00:08:04,000 --> 00:08:08,000
+billion dollar market but actually less
+
+231
+00:08:07,000 --> 00:08:10,000
+obviously there are two kinds of markets
+
+232
+00:08:09,000 --> 00:08:12,000
+for startups that are good
+
+233
+00:08:11,000 --> 00:08:15,000
+um ones that are big now and ones that
+
+234
+00:08:13,000 --> 00:08:17,000
+are small but rapidly growing
+
+235
+00:08:15,000 --> 00:08:19,000
+and an example of the second one is
+
+236
+00:08:17,000 --> 00:08:21,000
+coinbase so when coinbase got started in
+
+237
+00:08:20,000 --> 00:08:24,000
+2012 the Bitcoin trading Market was
+
+238
+00:08:22,000 --> 00:08:26,000
+minuscule but even at that time it was
+
+239
+00:08:24,000 --> 00:08:28,000
+pretty obvious that if Bitcoin succeeded
+
+240
+00:08:27,000 --> 00:08:30,000
+the way people hoped that it would that
+
+241
+00:08:29,000 --> 00:08:31,000
+this would eventually be a billion
+
+242
+00:08:30,000 --> 00:08:34,000
+dollar market
+
+243
+00:08:31,000 --> 00:08:36,000
+number three how acute is this problem
+
+244
+00:08:34,000 --> 00:08:37,000
+so as I said earlier the most common
+
+245
+00:08:36,000 --> 00:08:39,000
+mistake is just like working on
+
+246
+00:08:38,000 --> 00:08:41,000
+something that just isn't really a
+
+247
+00:08:39,000 --> 00:08:43,000
+problem or it's just not a problem that
+
+248
+00:08:41,000 --> 00:08:44,000
+people care enough about
+
+249
+00:08:43,000 --> 00:08:46,000
+um here's an example of the opposite
+
+250
+00:08:45,000 --> 00:08:49,000
+here's an example of what a good problem
+
+251
+00:08:47,000 --> 00:08:53,000
+looks like Rex
+
+252
+00:08:50,000 --> 00:08:55,000
+so Brax from Winter 2017 makes a credit
+
+253
+00:08:53,000 --> 00:08:57,000
+card for startups
+
+254
+00:08:55,000 --> 00:08:59,000
+and before brex if a startup NYC wanted
+
+255
+00:08:58,000 --> 00:09:01,000
+a corporate credit card they literally
+
+256
+00:09:00,000 --> 00:09:04,000
+could not get one because a no bank
+
+257
+00:09:02,000 --> 00:09:06,000
+would give a credit card to a startup
+
+258
+00:09:05,000 --> 00:09:08,000
+that's a good problem like if you're if
+
+259
+00:09:07,000 --> 00:09:10,000
+the alternative to your solution is
+
+260
+00:09:09,000 --> 00:09:13,000
+literally nothing that's what a good
+
+261
+00:09:10,000 --> 00:09:13,000
+problem looks like okay next do you have
+
+262
+00:09:13,000 --> 00:09:16,000
+competition
+
+263
+00:09:14,000 --> 00:09:17,000
+now most Founders think that if you have
+
+264
+00:09:16,000 --> 00:09:21,000
+competition that that's bad but
+
+265
+00:09:18,000 --> 00:09:23,000
+counter-intuitively it is the opposite
+
+266
+00:09:21,000 --> 00:09:25,000
+most good startup ideas have competition
+
+267
+00:09:24,000 --> 00:09:28,000
+but if you were going up against
+
+268
+00:09:26,000 --> 00:09:31,000
+especially entrenched competition you
+
+269
+00:09:28,000 --> 00:09:33,000
+typically need a new insight next one is
+
+270
+00:09:31,000 --> 00:09:36,000
+like do you want this personally
+
+271
+00:09:34,000 --> 00:09:39,000
+do you know people personally who want
+
+272
+00:09:36,000 --> 00:09:41,000
+this it's amazing how often people start
+
+273
+00:09:39,000 --> 00:09:44,000
+companies where the answer to both these
+
+274
+00:09:41,000 --> 00:09:45,000
+questions is no if that's the case you
+
+275
+00:09:44,000 --> 00:09:47,000
+definitely got to worry that you know
+
+276
+00:09:46,000 --> 00:09:50,000
+maybe nobody wants this so definitely
+
+277
+00:09:48,000 --> 00:09:53,000
+time to go talk to some users
+
+278
+00:09:51,000 --> 00:09:55,000
+only recently become possible or only
+
+279
+00:09:53,000 --> 00:09:57,000
+recently become necessary
+
+280
+00:09:55,000 --> 00:09:59,000
+so something has recently changed in the
+
+281
+00:09:57,000 --> 00:10:03,000
+world like a new technology regulatory
+
+282
+00:10:00,000 --> 00:10:06,000
+change or a new problem that is often
+
+283
+00:10:04,000 --> 00:10:08,000
+what creates a new opportunity
+
+284
+00:10:06,000 --> 00:10:09,000
+and a great example of this is company
+
+285
+00:10:08,000 --> 00:10:13,000
+called Checker which does background
+
+286
+00:10:10,000 --> 00:10:16,000
+checks via VIA an API so it's an API for
+
+287
+00:10:14,000 --> 00:10:19,000
+doing background checks on people and
+
+288
+00:10:16,000 --> 00:10:22,000
+roughly the story of Checker is delivery
+
+289
+00:10:20,000 --> 00:10:24,000
+services like doordash and instacart and
+
+290
+00:10:23,000 --> 00:10:27,000
+Uber started to take off
+
+291
+00:10:25,000 --> 00:10:29,000
+and they were all hiring huge pools of
+
+292
+00:10:27,000 --> 00:10:30,000
+delivery people and workers and they
+
+293
+00:10:29,000 --> 00:10:33,000
+needed to run background checks on all
+
+294
+00:10:30,000 --> 00:10:34,000
+of these people and there were at the
+
+295
+00:10:33,000 --> 00:10:36,000
+time already a bunch of large existing
+
+296
+00:10:35,000 --> 00:10:38,000
+companies that run background checks but
+
+297
+00:10:37,000 --> 00:10:42,000
+they weren't well suited for this very
+
+298
+00:10:39,000 --> 00:10:44,000
+new use case and that is like exactly
+
+299
+00:10:42,000 --> 00:10:46,000
+the kind of change in the world that
+
+300
+00:10:44,000 --> 00:10:48,000
+creates a new opportunity let's talk
+
+301
+00:10:47,000 --> 00:10:52,000
+about proxies
+
+302
+00:10:48,000 --> 00:10:53,000
+so a proxy is a large company that does
+
+303
+00:10:52,000 --> 00:10:56,000
+something similar to your startup but it
+
+304
+00:10:54,000 --> 00:10:58,000
+is not a direct competitor
+
+305
+00:10:56,000 --> 00:10:59,000
+and so um
+
+306
+00:10:58,000 --> 00:11:01,000
+a good example of this in practice is a
+
+307
+00:11:00,000 --> 00:11:03,000
+company called rapid which does food
+
+308
+00:11:02,000 --> 00:11:05,000
+delivery in Latin America and when
+
+309
+00:11:04,000 --> 00:11:07,000
+rapping got started there were already a
+
+310
+00:11:06,000 --> 00:11:09,000
+few delivery companies in other parts of
+
+311
+00:11:07,000 --> 00:11:10,000
+the world like doordash they're doing
+
+312
+00:11:09,000 --> 00:11:14,000
+very well they just hadn't caught on in
+
+313
+00:11:11,000 --> 00:11:15,000
+Latin America yet and so doordash was a
+
+314
+00:11:14,000 --> 00:11:17,000
+great proxy to show that this idea of
+
+315
+00:11:16,000 --> 00:11:19,000
+doing food delivery in Latin America
+
+316
+00:11:17,000 --> 00:11:22,000
+would probably work is this an idea
+
+317
+00:11:19,000 --> 00:11:23,000
+you'd want to work on for years but this
+
+318
+00:11:22,000 --> 00:11:25,000
+is a tricky one like sure if the answer
+
+319
+00:11:24,000 --> 00:11:28,000
+to this question is yes that's a good
+
+320
+00:11:26,000 --> 00:11:31,000
+sign but often it's not often an idea
+
+321
+00:11:29,000 --> 00:11:34,000
+grows on Founders over time as it starts
+
+322
+00:11:32,000 --> 00:11:35,000
+to work as I'm going to talk about in a
+
+323
+00:11:34,000 --> 00:11:38,000
+moment a lot of the best startup ideas
+
+324
+00:11:35,000 --> 00:11:39,000
+are in boring spaces like tax accounting
+
+325
+00:11:39,000 --> 00:11:41,000
+software or something like that like no
+
+326
+00:11:40,000 --> 00:11:43,000
+one is particularly passionate about
+
+327
+00:11:41,000 --> 00:11:45,000
+like nobody starts off being passionate
+
+328
+00:11:44,000 --> 00:11:47,000
+about tax accounting software
+
+329
+00:11:46,000 --> 00:11:49,000
+um but tax accounting software is
+
+330
+00:11:48,000 --> 00:11:51,000
+probably a good business and if you're
+
+331
+00:11:50,000 --> 00:11:54,000
+actually running a successful business
+
+332
+00:11:52,000 --> 00:11:56,000
+you tend to become passionate about it
+
+333
+00:11:54,000 --> 00:11:57,000
+over time okay is this a scalable
+
+334
+00:11:57,000 --> 00:12:00,000
+business
+
+335
+00:11:57,000 --> 00:12:00,000
+so if you're building pure software the
+
+336
+00:12:00,000 --> 00:12:03,000
+answer is yes because software skills
+
+337
+00:12:01,000 --> 00:12:04,000
+infinitely and you can just like check
+
+338
+00:12:03,000 --> 00:12:06,000
+this one off
+
+339
+00:12:04,000 --> 00:12:07,000
+um the place for Founders most often get
+
+340
+00:12:06,000 --> 00:12:10,000
+into trouble here is with Services
+
+341
+00:12:08,000 --> 00:12:12,000
+businesses like agencies or Dev shops
+
+342
+00:12:10,000 --> 00:12:13,000
+anything that requires like high skill
+
+343
+00:12:12,000 --> 00:12:16,000
+human labor in order to serve your
+
+344
+00:12:14,000 --> 00:12:19,000
+customers okay and my last question is
+
+345
+00:12:17,000 --> 00:12:22,000
+is this a good idea space which of
+
+346
+00:12:20,000 --> 00:12:24,000
+course means I need to tell you what an
+
+347
+00:12:22,000 --> 00:12:25,000
+idea space is this is a concept from my
+
+348
+00:12:24,000 --> 00:12:27,000
+colleague Dalton who you'll hear from
+
+349
+00:12:26,000 --> 00:12:30,000
+later in this course
+
+350
+00:12:27,000 --> 00:12:31,000
+an idea space is like one level of
+
+351
+00:12:30,000 --> 00:12:34,000
+abstraction out from a particular
+
+352
+00:12:32,000 --> 00:12:36,000
+startup idea it is a class of closely
+
+353
+00:12:35,000 --> 00:12:40,000
+related startup ideas
+
+354
+00:12:37,000 --> 00:12:42,000
+like software for hospitals or
+
+355
+00:12:40,000 --> 00:12:45,000
+infrastructure monitoring tools or food
+
+356
+00:12:42,000 --> 00:12:47,000
+delivery services and here's the thing
+
+357
+00:12:45,000 --> 00:12:49,000
+different idea spaces have wildly
+
+358
+00:12:48,000 --> 00:12:52,000
+different hit rates
+
+359
+00:12:49,000 --> 00:12:53,000
+over the last 10 years if you started a
+
+360
+00:12:52,000 --> 00:12:56,000
+company that did like fintech
+
+361
+00:12:54,000 --> 00:12:59,000
+infrastructure or vertical SAS for
+
+362
+00:12:57,000 --> 00:13:01,000
+Enterprise the the probability that your
+
+363
+00:12:59,000 --> 00:13:02,000
+company became a billion dollar company
+
+364
+00:13:01,000 --> 00:13:05,000
+was astonishingly High
+
+365
+00:13:03,000 --> 00:13:08,000
+whereas if you started something in
+
+366
+00:13:05,000 --> 00:13:11,000
+consumer Hardware or social networks or
+
+367
+00:13:08,000 --> 00:13:13,000
+ad Tech the success rate was like orders
+
+368
+00:13:12,000 --> 00:13:15,000
+of magnitude loader and I can't say that
+
+369
+00:13:13,000 --> 00:13:16,000
+that will continue to be the case for
+
+370
+00:13:15,000 --> 00:13:19,000
+those specific areas because spaces
+
+371
+00:13:17,000 --> 00:13:22,000
+flipped from hot to cold over time but
+
+372
+00:13:19,000 --> 00:13:23,000
+it is still worth thinking about picking
+
+373
+00:13:22,000 --> 00:13:26,000
+a good idea space
+
+374
+00:13:24,000 --> 00:13:28,000
+and a good idea Space is really just one
+
+375
+00:13:26,000 --> 00:13:29,000
+that like you expect is going to have a
+
+376
+00:13:28,000 --> 00:13:31,000
+reasonable hit rate for new startup
+
+377
+00:13:30,000 --> 00:13:32,000
+ideas and one that has founder market
+
+378
+00:13:32,000 --> 00:13:35,000
+fit
+
+379
+00:13:33,000 --> 00:13:37,000
+that way even if your initial idea isn't
+
+380
+00:13:35,000 --> 00:13:38,000
+quite right there are probably good
+
+381
+00:13:37,000 --> 00:13:40,000
+adjacent ideas that you can sort of like
+
+382
+00:13:39,000 --> 00:13:41,000
+drift into
+
+383
+00:13:40,000 --> 00:13:43,000
+I'm going to give a good example of like
+
+384
+00:13:42,000 --> 00:13:45,000
+how this played out in practice so a
+
+385
+00:13:43,000 --> 00:13:46,000
+good example of picking a good idea
+
+386
+00:13:45,000 --> 00:13:50,000
+space is this company called 5tran from
+
+387
+00:13:47,000 --> 00:13:52,000
+yc1213 and basically it's already 5tran
+
+388
+00:13:50,000 --> 00:13:53,000
+is they started making this tool for
+
+389
+00:13:52,000 --> 00:13:55,000
+data analysis
+
+390
+00:13:54,000 --> 00:13:58,000
+and they went to some companies and they
+
+391
+00:13:56,000 --> 00:14:00,000
+tried to sell it and the companies
+
+392
+00:13:58,000 --> 00:14:02,000
+didn't want it so they pivoted and they
+
+393
+00:14:00,000 --> 00:14:03,000
+built a different tool for data analysis
+
+394
+00:14:02,000 --> 00:14:05,000
+and they went back to the same companies
+
+395
+00:14:04,000 --> 00:14:07,000
+and they tried to sell them that one and
+
+396
+00:14:06,000 --> 00:14:09,000
+the companies didn't want that either
+
+397
+00:14:08,000 --> 00:14:11,000
+but each time they went to companies and
+
+398
+00:14:10,000 --> 00:14:13,000
+tried to sell them some tool for data
+
+399
+00:14:12,000 --> 00:14:15,000
+analysis they would learn more about
+
+400
+00:14:13,000 --> 00:14:16,000
+what those companies actually wanted and
+
+401
+00:14:15,000 --> 00:14:18,000
+So eventually they sort of stumbled into
+
+402
+00:14:17,000 --> 00:14:20,000
+an actual problem into an actual tool
+
+403
+00:14:19,000 --> 00:14:22,000
+for data analysis that companies
+
+404
+00:14:21,000 --> 00:14:23,000
+actually wanted
+
+405
+00:14:22,000 --> 00:14:26,000
+and
+
+406
+00:14:23,000 --> 00:14:27,000
+this is why picking a good idea space to
+
+407
+00:14:26,000 --> 00:14:30,000
+start with is so important like because
+
+408
+00:14:28,000 --> 00:14:32,000
+the five Tran Founders were shopping for
+
+409
+00:14:30,000 --> 00:14:34,000
+ideas and a fertile idea space they put
+
+410
+00:14:33,000 --> 00:14:37,000
+themselves in a good position to like
+
+411
+00:14:35,000 --> 00:14:39,000
+bump into a good startup idea if they
+
+412
+00:14:37,000 --> 00:14:40,000
+had picked a bad idea space they
+
+413
+00:14:39,000 --> 00:14:43,000
+probably wouldn't have found anything
+
+414
+00:14:40,000 --> 00:14:45,000
+okay before I talk about how to generate
+
+415
+00:14:43,000 --> 00:14:46,000
+startup ideas I've got one important
+
+416
+00:14:45,000 --> 00:14:49,000
+topic to tell you about
+
+417
+00:14:47,000 --> 00:14:52,000
+these are three things that make your
+
+418
+00:14:50,000 --> 00:14:55,000
+startup idea seem bad
+
+419
+00:14:53,000 --> 00:14:57,000
+but actually make them good and the
+
+420
+00:14:55,000 --> 00:14:59,000
+reason that they make them good is that
+
+421
+00:14:57,000 --> 00:15:01,000
+most Founders will shy away from ideas
+
+422
+00:15:00,000 --> 00:15:04,000
+like these which leaves them on the
+
+423
+00:15:02,000 --> 00:15:06,000
+table for smarter Founders to go and
+
+424
+00:15:04,000 --> 00:15:09,000
+grab them and here they are
+
+425
+00:15:06,000 --> 00:15:11,000
+ideas that are hard to get started ideas
+
+426
+00:15:09,000 --> 00:15:13,000
+that are in a boring space and ideas
+
+427
+00:15:12,000 --> 00:15:16,000
+that have existing competitors
+
+428
+00:15:14,000 --> 00:15:18,000
+ideas that are hard to get started so
+
+429
+00:15:17,000 --> 00:15:20,000
+Paul Graham wrote a terrific article
+
+430
+00:15:19,000 --> 00:15:22,000
+about this called schlep blindness which
+
+431
+00:15:21,000 --> 00:15:24,000
+I'd really recommend reading and the
+
+432
+00:15:22,000 --> 00:15:25,000
+example that Paul discusses is stripe
+
+433
+00:15:24,000 --> 00:15:27,000
+you all know stripe they make it easy to
+
+434
+00:15:26,000 --> 00:15:28,000
+integrate credit card payments to your
+
+435
+00:15:28,000 --> 00:15:31,000
+website
+
+436
+00:15:28,000 --> 00:15:32,000
+and the fascinating thing about stripe
+
+437
+00:15:31,000 --> 00:15:36,000
+is that when stripe launched there were
+
+438
+00:15:33,000 --> 00:15:38,000
+thousands of developers who already knew
+
+439
+00:15:36,000 --> 00:15:39,000
+that this was a problem they had tried
+
+440
+00:15:39,000 --> 00:15:41,000
+to integrate credit card payments to
+
+441
+00:15:40,000 --> 00:15:43,000
+their site and they realized that the
+
+442
+00:15:41,000 --> 00:15:46,000
+existing options sucked
+
+443
+00:15:43,000 --> 00:15:49,000
+but strangely not one of them even tried
+
+444
+00:15:47,000 --> 00:15:51,000
+to start striping and it's kind of a
+
+445
+00:15:50,000 --> 00:15:53,000
+kind of a fascinating question why
+
+446
+00:15:51,000 --> 00:15:54,000
+nobody else tried when so many people
+
+447
+00:15:53,000 --> 00:15:56,000
+were in a perfect position to see this
+
+448
+00:15:55,000 --> 00:16:00,000
+problem
+
+449
+00:15:56,000 --> 00:16:02,000
+and the reason is that getting
+
+450
+00:16:00,000 --> 00:16:04,000
+started building stripe required some
+
+451
+00:16:03,000 --> 00:16:07,000
+things that seemed really hard you had
+
+452
+00:16:05,000 --> 00:16:09,000
+to get a special deal with a bank you
+
+453
+00:16:08,000 --> 00:16:11,000
+get to learn a lot about the
+
+454
+00:16:09,000 --> 00:16:13,000
+nitty-gritty details of credit card
+
+455
+00:16:11,000 --> 00:16:16,000
+infrastructure those things seemed so
+
+456
+00:16:14,000 --> 00:16:18,000
+hard that they scared off all the other
+
+457
+00:16:17,000 --> 00:16:21,000
+people who might have started stripe
+
+458
+00:16:18,000 --> 00:16:22,000
+which caused them to leave this like 100
+
+459
+00:16:21,000 --> 00:16:24,000
+billion dollar opportunity on the table
+
+460
+00:16:22,000 --> 00:16:26,000
+for the stripe Founders to go and pick
+
+461
+00:16:24,000 --> 00:16:30,000
+up okay the second one is ideas that are
+
+462
+00:16:27,000 --> 00:16:31,000
+in a boring space and a great example of
+
+463
+00:16:30,000 --> 00:16:33,000
+this is Gusto which makes payroll
+
+464
+00:16:32,000 --> 00:16:36,000
+software
+
+465
+00:16:34,000 --> 00:16:38,000
+payroll software pretty boring right
+
+466
+00:16:37,000 --> 00:16:40,000
+the thing is there are thousands of
+
+467
+00:16:39,000 --> 00:16:42,000
+people who must have realized that
+
+468
+00:16:40,000 --> 00:16:43,000
+payroll software sucked but because it
+
+469
+00:16:42,000 --> 00:16:45,000
+was kind of a boring problem nobody
+
+470
+00:16:44,000 --> 00:16:47,000
+tried to fix it until the Gusto Founders
+
+471
+00:16:45,000 --> 00:16:49,000
+came along and the thing is that because
+
+472
+00:16:47,000 --> 00:16:50,000
+most Founders shy away from ideas like
+
+473
+00:16:50,000 --> 00:16:53,000
+this
+
+474
+00:16:51,000 --> 00:16:56,000
+boring ideas like payroll software have
+
+475
+00:16:53,000 --> 00:16:57,000
+a much higher hit rate than fun ideas
+
+476
+00:16:56,000 --> 00:16:59,000
+like
+
+477
+00:16:57,000 --> 00:17:01,000
+apps to find new restaurants to eat at
+
+478
+00:17:00,000 --> 00:17:04,000
+or like apps to find the next song to
+
+479
+00:17:02,000 --> 00:17:06,000
+listen to something like that like fun
+
+480
+00:17:04,000 --> 00:17:09,000
+ideas get picked over boring ideas get
+
+481
+00:17:07,000 --> 00:17:13,000
+left on the table for a long time
+
+482
+00:17:10,000 --> 00:17:14,000
+now you might be thinking Jared why
+
+483
+00:17:13,000 --> 00:17:16,000
+would I want to work on a boring idea
+
+484
+00:17:15,000 --> 00:17:19,000
+that sounds you know boring
+
+485
+00:17:17,000 --> 00:17:22,000
+but here's the thing even if you work on
+
+486
+00:17:19,000 --> 00:17:23,000
+an idea that sounds fun at the outset
+
+487
+00:17:22,000 --> 00:17:27,000
+the day-to-day reality of your startup
+
+488
+00:17:24,000 --> 00:17:29,000
+is going to be mostly the same anyway
+
+489
+00:17:27,000 --> 00:17:33,000
+either way you'll be mostly writing code
+
+490
+00:17:30,000 --> 00:17:36,000
+fixing bugs talking to users like pretty
+
+491
+00:17:34,000 --> 00:17:39,000
+much the same stuff and so I would argue
+
+492
+00:17:36,000 --> 00:17:42,000
+that once the initial excitement of your
+
+493
+00:17:39,000 --> 00:17:45,000
+idea has worn off and you are 6 or 12
+
+494
+00:17:43,000 --> 00:17:47,000
+months in and you are grinding out the
+
+495
+00:17:45,000 --> 00:17:48,000
+execution that makes your idea actually
+
+496
+00:17:47,000 --> 00:17:51,000
+work
+
+497
+00:17:49,000 --> 00:17:53,000
+how fun the initial idea sounded
+
+498
+00:17:51,000 --> 00:17:55,000
+actually has little to no correlation
+
+499
+00:17:53,000 --> 00:17:58,000
+with how much fun you will actually be
+
+500
+00:17:56,000 --> 00:18:00,000
+having working on your company
+
+501
+00:17:59,000 --> 00:18:03,000
+and the last one is that Founders
+
+502
+00:18:01,000 --> 00:18:04,000
+incorrectly shy away from spaces where
+
+503
+00:18:03,000 --> 00:18:07,000
+there are existing competitors
+
+504
+00:18:04,000 --> 00:18:08,000
+counter-intuitively most startup ideas
+
+505
+00:18:07,000 --> 00:18:11,000
+most good startup ideas have existing
+
+506
+00:18:09,000 --> 00:18:13,000
+competitors when founders go into spaces
+
+507
+00:18:11,000 --> 00:18:14,000
+with no existing competitors they often
+
+508
+00:18:13,000 --> 00:18:16,000
+find out that the reason that there are
+
+509
+00:18:15,000 --> 00:18:18,000
+no competitors is because no one wants
+
+510
+00:18:17,000 --> 00:18:20,000
+the product
+
+511
+00:18:18,000 --> 00:18:22,000
+a great situation is actually a market
+
+512
+00:18:21,000 --> 00:18:24,000
+where there are existing competitors but
+
+513
+00:18:23,000 --> 00:18:26,000
+you've noticed something that they all
+
+514
+00:18:24,000 --> 00:18:27,000
+seem to have missed or they all just
+
+515
+00:18:26,000 --> 00:18:31,000
+kind of suck a classic example of this
+
+516
+00:18:28,000 --> 00:18:34,000
+is Dropbox so when Dropbox launched they
+
+517
+00:18:31,000 --> 00:18:36,000
+were already about 20.
+
+518
+00:18:34,000 --> 00:18:38,000
+cloud-based file storage companies
+
+519
+00:18:37,000 --> 00:18:41,000
+Dropbox was like the 20th company and
+
+520
+00:18:39,000 --> 00:18:42,000
+it's space to launch naively you might
+
+521
+00:18:41,000 --> 00:18:44,000
+have thought that that made this a bad
+
+522
+00:18:42,000 --> 00:18:44,000
+Market I mean you would have gone and
+
+523
+00:18:44,000 --> 00:18:46,000
+looked and said like oh there are
+
+524
+00:18:45,000 --> 00:18:48,000
+already 20 competitors it seems like a
+
+525
+00:18:46,000 --> 00:18:49,000
+bad Market to go into but if you were
+
+526
+00:18:48,000 --> 00:18:51,000
+Savvy about startup ideas you would have
+
+527
+00:18:50,000 --> 00:18:54,000
+realized that it actually made it a
+
+528
+00:18:52,000 --> 00:18:56,000
+great Market and the reason is that even
+
+529
+00:18:54,000 --> 00:18:59,000
+though there were like 20 companies
+
+530
+00:18:56,000 --> 00:19:02,000
+doing this most people didn't use any of
+
+531
+00:18:59,000 --> 00:19:03,000
+them and that strongly suggests that
+
+532
+00:19:02,000 --> 00:19:06,000
+there actually was a problem here but
+
+533
+00:19:04,000 --> 00:19:09,000
+the existing products hadn't solved it
+
+534
+00:19:07,000 --> 00:19:12,000
+and Drew the founder of Dropbox had a
+
+535
+00:19:10,000 --> 00:19:14,000
+very specific insight about what all of
+
+536
+00:19:12,000 --> 00:19:15,000
+them were missing his Insight was
+
+537
+00:19:14,000 --> 00:19:18,000
+basically their UI sucked and the reason
+
+538
+00:19:16,000 --> 00:19:19,000
+their UI stopped was that at the time
+
+539
+00:19:18,000 --> 00:19:22,000
+the way that they all worked is you had
+
+540
+00:19:20,000 --> 00:19:24,000
+to like go to their website and manually
+
+541
+00:19:22,000 --> 00:19:26,000
+upload your files one at a time into
+
+542
+00:19:24,000 --> 00:19:28,000
+their website which sucked of course and
+
+543
+00:19:27,000 --> 00:19:31,000
+Drew had really a technical Insight
+
+544
+00:19:29,000 --> 00:19:33,000
+which was that if he integrated directly
+
+545
+00:19:31,000 --> 00:19:34,000
+into the host operating system he could
+
+546
+00:19:33,000 --> 00:19:36,000
+just sync your files automatically
+
+547
+00:19:34,000 --> 00:19:38,000
+without you having to do anything and
+
+548
+00:19:36,000 --> 00:19:40,000
+that was a real step function change in
+
+549
+00:19:38,000 --> 00:19:42,000
+how convenient these Services were to
+
+550
+00:19:40,000 --> 00:19:45,000
+use and that was the right insight okay
+
+551
+00:19:43,000 --> 00:19:49,000
+let's talk about how to come up with
+
+552
+00:19:46,000 --> 00:19:51,000
+startup ideas so it is possible to sit
+
+553
+00:19:49,000 --> 00:19:52,000
+down and explicitly think of startup
+
+554
+00:19:51,000 --> 00:19:55,000
+ideas and in a moment I'm going to talk
+
+555
+00:19:53,000 --> 00:19:57,000
+about how to do this but it is actually
+
+556
+00:19:55,000 --> 00:19:58,000
+not the best way the best way to have
+
+557
+00:19:57,000 --> 00:20:01,000
+startup ideas is to just notice them
+
+558
+00:19:59,000 --> 00:20:03,000
+organically and if you look at the YC
+
+559
+00:20:01,000 --> 00:20:04,000
+top 100 companies at least 70 percent of
+
+560
+00:20:04,000 --> 00:20:07,000
+them have their startup ideas
+
+561
+00:20:05,000 --> 00:20:08,000
+organically rather than by like sitting
+
+562
+00:20:07,000 --> 00:20:10,000
+down and explicitly trying to think of a
+
+563
+00:20:09,000 --> 00:20:13,000
+startup idea and the problem is that
+
+564
+00:20:11,000 --> 00:20:15,000
+when people sit down and try to think of
+
+565
+00:20:13,000 --> 00:20:17,000
+startup ideas they tend to think of bad
+
+566
+00:20:15,000 --> 00:20:19,000
+ones they're especially likely to think
+
+567
+00:20:18,000 --> 00:20:22,000
+of the same set of tar pit ideas that I
+
+568
+00:20:20,000 --> 00:20:24,000
+talked about earlier whereas startup
+
+569
+00:20:22,000 --> 00:20:26,000
+ideas that occur to you organically are
+
+570
+00:20:24,000 --> 00:20:27,000
+more likely to be good ones so if you're
+
+571
+00:20:27,000 --> 00:20:29,000
+not planning on starting a company
+
+572
+00:20:28,000 --> 00:20:31,000
+imminently and you just want to put
+
+573
+00:20:30,000 --> 00:20:34,000
+yourself in a position to have organic
+
+574
+00:20:32,000 --> 00:20:36,000
+startup ideas in the future here are
+
+575
+00:20:34,000 --> 00:20:37,000
+three ways to do that this is like
+
+576
+00:20:36,000 --> 00:20:39,000
+playing the long game to set yourself up
+
+577
+00:20:38,000 --> 00:20:41,000
+for future success
+
+578
+00:20:39,000 --> 00:20:43,000
+um first is just like become an expert
+
+579
+00:20:41,000 --> 00:20:45,000
+on something valuable if you're working
+
+580
+00:20:44,000 --> 00:20:48,000
+at the Forefront of some field you'll
+
+581
+00:20:46,000 --> 00:20:50,000
+see good startup ideas in that field
+
+582
+00:20:48,000 --> 00:20:52,000
+and a great way to do that is to go work
+
+583
+00:20:50,000 --> 00:20:53,000
+at a startup Harge talked about this in
+
+584
+00:20:52,000 --> 00:20:55,000
+his talk last week if you're working at
+
+585
+00:20:54,000 --> 00:20:57,000
+a startup you will become an expert in
+
+586
+00:20:56,000 --> 00:20:59,000
+the thing that that startup does and
+
+587
+00:20:57,000 --> 00:21:00,000
+that is really putting yourself in a
+
+588
+00:20:59,000 --> 00:21:03,000
+position to have great startup ideas and
+
+589
+00:21:01,000 --> 00:21:04,000
+finally if you're a programmer one thing
+
+590
+00:21:03,000 --> 00:21:06,000
+that can work is to just build things
+
+591
+00:21:05,000 --> 00:21:08,000
+that you find interesting even if
+
+592
+00:21:07,000 --> 00:21:10,000
+they're not businesses they're not
+
+593
+00:21:08,000 --> 00:21:11,000
+clearly startup ideas sometimes they
+
+594
+00:21:10,000 --> 00:21:15,000
+like
+
+595
+00:21:12,000 --> 00:21:18,000
+turn into them over time and a really
+
+596
+00:21:16,000 --> 00:21:20,000
+striking example of this is the story of
+
+597
+00:21:18,000 --> 00:21:21,000
+replica this is exactly how replica
+
+598
+00:21:20,000 --> 00:21:23,000
+started it was just something that amjad
+
+599
+00:21:22,000 --> 00:21:25,000
+found interesting it wasn't supposed to
+
+600
+00:21:24,000 --> 00:21:27,000
+be a startup originally okay but if you
+
+601
+00:21:26,000 --> 00:21:29,000
+want to generate ideas for startups
+
+602
+00:21:28,000 --> 00:21:32,000
+right now I'm going to walk through
+
+603
+00:21:29,000 --> 00:21:33,000
+seven recipes for doing that I've tried
+
+604
+00:21:32,000 --> 00:21:36,000
+to list these in order of How likely
+
+605
+00:21:34,000 --> 00:21:39,000
+they are to lead to actually good ideas
+
+606
+00:21:37,000 --> 00:21:43,000
+so start with the first ones okay here's
+
+607
+00:21:40,000 --> 00:21:45,000
+the first one and the best one
+
+608
+00:21:43,000 --> 00:21:47,000
+start with what your team is especially
+
+609
+00:21:46,000 --> 00:21:49,000
+good at
+
+610
+00:21:47,000 --> 00:21:51,000
+and think of ideas that take advantage
+
+611
+00:21:49,000 --> 00:21:53,000
+of your expertise the reason that this
+
+612
+00:21:52,000 --> 00:21:56,000
+is so effective is that any idea you
+
+613
+00:21:54,000 --> 00:21:58,000
+come up with this way has automatic
+
+614
+00:21:56,000 --> 00:21:59,000
+founder market fit do you see how this
+
+615
+00:21:58,000 --> 00:22:02,000
+is almost like a hack to generate the
+
+616
+00:22:00,000 --> 00:22:04,000
+set of ideas that has founder market fit
+
+617
+00:22:02,000 --> 00:22:05,000
+here's a great example of like how this
+
+618
+00:22:04,000 --> 00:22:07,000
+worked in practice
+
+619
+00:22:05,000 --> 00:22:09,000
+so a good example is this company resi
+
+620
+00:22:08,000 --> 00:22:13,000
+which is like open door for rental
+
+621
+00:22:10,000 --> 00:22:14,000
+apartments and before starting resi the
+
+622
+00:22:13,000 --> 00:22:17,000
+founders have worked in real estate and
+
+623
+00:22:15,000 --> 00:22:18,000
+debt financing and they were experts in
+
+624
+00:22:17,000 --> 00:22:20,000
+those areas
+
+625
+00:22:18,000 --> 00:22:22,000
+and where they got into YC they spent
+
+626
+00:22:21,000 --> 00:22:25,000
+the first month looking for ideas
+
+627
+00:22:23,000 --> 00:22:27,000
+but the smart thing that they did is
+
+628
+00:22:25,000 --> 00:22:29,000
+they only looked at ideas in that idea
+
+629
+00:22:28,000 --> 00:22:31,000
+space in like the rough idea space at
+
+630
+00:22:30,000 --> 00:22:33,000
+like the intersection of like real
+
+631
+00:22:31,000 --> 00:22:36,000
+estate and fintech and that was a smart
+
+632
+00:22:34,000 --> 00:22:38,000
+move because that is a very fertile idea
+
+633
+00:22:36,000 --> 00:22:39,000
+space for startups like many billion
+
+634
+00:22:39,000 --> 00:22:42,000
+dollar companies have come out of that
+
+635
+00:22:40,000 --> 00:22:43,000
+idea space and the resi founders were
+
+636
+00:22:42,000 --> 00:22:45,000
+experts in that idea space and so
+
+637
+00:22:44,000 --> 00:22:47,000
+because of that
+
+638
+00:22:45,000 --> 00:22:49,000
+their search for a startup idea was
+
+639
+00:22:47,000 --> 00:22:50,000
+pretty quick and painless and pretty
+
+640
+00:22:49,000 --> 00:22:52,000
+quickly they came up with the idea for
+
+641
+00:22:51,000 --> 00:22:55,000
+Rezi which is like an excellent idea and
+
+642
+00:22:53,000 --> 00:22:57,000
+has perfect founder market fit so if you
+
+643
+00:22:56,000 --> 00:23:00,000
+have specific expertise like the resi
+
+644
+00:22:58,000 --> 00:23:03,000
+founders did you should definitely start
+
+645
+00:23:00,000 --> 00:23:04,000
+by looking at ideas in you know the
+
+646
+00:23:03,000 --> 00:23:08,000
+things that you're experts in
+
+647
+00:23:05,000 --> 00:23:10,000
+um it is weird how many startups apply
+
+648
+00:23:08,000 --> 00:23:11,000
+to YC and we look at their applications
+
+649
+00:23:10,000 --> 00:23:13,000
+and the founders like are actually
+
+650
+00:23:11,000 --> 00:23:14,000
+legitimate experts in something but the
+
+651
+00:23:13,000 --> 00:23:16,000
+idea that they're applying with is like
+
+652
+00:23:15,000 --> 00:23:19,000
+something completely different
+
+653
+00:23:17,000 --> 00:23:20,000
+now if you're if you're a young founder
+
+654
+00:23:19,000 --> 00:23:22,000
+if you're in college or something you
+
+655
+00:23:21,000 --> 00:23:25,000
+may not have had a chance to develop
+
+656
+00:23:23,000 --> 00:23:27,000
+it's like the level of domain expertise
+
+657
+00:23:25,000 --> 00:23:29,000
+that the resi founders had so this may
+
+658
+00:23:27,000 --> 00:23:30,000
+not be the right recipe for you so let's
+
+659
+00:23:29,000 --> 00:23:32,000
+talk about some other ones
+
+660
+00:23:31,000 --> 00:23:35,000
+the next recipe is to start with a
+
+661
+00:23:33,000 --> 00:23:38,000
+problem you've personally encountered
+
+662
+00:23:35,000 --> 00:23:43,000
+ideally one that you're in an unusual
+
+663
+00:23:38,000 --> 00:23:45,000
+position to see so vetco is a website
+
+664
+00:23:43,000 --> 00:23:47,000
+for veterinarians to order supplies so
+
+665
+00:23:46,000 --> 00:23:49,000
+you can think about it like amazon.com
+
+666
+00:23:48,000 --> 00:23:51,000
+for vets
+
+667
+00:23:49,000 --> 00:23:52,000
+and the short story of vetcove is that
+
+668
+00:23:52,000 --> 00:23:56,000
+the founders are brothers
+
+669
+00:23:53,000 --> 00:23:58,000
+and their dad is a veterinarian
+
+670
+00:23:56,000 --> 00:24:00,000
+and growing up they would notice that
+
+671
+00:23:58,000 --> 00:24:01,000
+the way he ordered supplies was like
+
+672
+00:24:00,000 --> 00:24:04,000
+super old-fashioned like you'd have to
+
+673
+00:24:02,000 --> 00:24:06,000
+like call up a supplier on the phone and
+
+674
+00:24:05,000 --> 00:24:09,000
+like order stuff through like a 1-800
+
+675
+00:24:07,000 --> 00:24:11,000
+number or something it was like very
+
+676
+00:24:10,000 --> 00:24:12,000
+obvious that you could build an
+
+677
+00:24:11,000 --> 00:24:13,000
+amazon.com kind of thing that would
+
+678
+00:24:13,000 --> 00:24:16,000
+replace that
+
+679
+00:24:14,000 --> 00:24:20,000
+and I I love the story of vetco because
+
+680
+00:24:16,000 --> 00:24:21,000
+it's such a great example of what a
+
+681
+00:24:20,000 --> 00:24:24,000
+great startup opportunity looks like
+
+682
+00:24:22,000 --> 00:24:27,000
+because thousands of veterinarians must
+
+683
+00:24:25,000 --> 00:24:28,000
+have known that this was a real problem
+
+684
+00:24:27,000 --> 00:24:30,000
+that it was really annoying there wasn't
+
+685
+00:24:28,000 --> 00:24:31,000
+like a basic website where you could
+
+686
+00:24:30,000 --> 00:24:34,000
+just go to order supplies but the thing
+
+687
+00:24:32,000 --> 00:24:36,000
+is veterinarians don't start Tech
+
+688
+00:24:34,000 --> 00:24:38,000
+startups very often and then on the
+
+689
+00:24:36,000 --> 00:24:39,000
+other hand you had like thousands of
+
+690
+00:24:38,000 --> 00:24:42,000
+programmers in Silicon Valley who were
+
+691
+00:24:40,000 --> 00:24:45,000
+begging their heads against cisps and
+
+692
+00:24:42,000 --> 00:24:46,000
+tarpet ideas totally unaware that over
+
+693
+00:24:45,000 --> 00:24:50,000
+here there was like a really great
+
+694
+00:24:47,000 --> 00:24:51,000
+genuine problem to work on
+
+695
+00:24:50,000 --> 00:24:54,000
+and because of this when the vet
+
+696
+00:24:52,000 --> 00:24:56,000
+co-founders got started they had no
+
+697
+00:24:54,000 --> 00:24:58,000
+competition so this amazing idea just
+
+698
+00:24:56,000 --> 00:25:00,000
+got left on the table for years so if
+
+699
+00:24:59,000 --> 00:25:03,000
+you want to try to actually use recipes
+
+700
+00:25:01,000 --> 00:25:05,000
+one and two here's a specific set of
+
+701
+00:25:03,000 --> 00:25:06,000
+instructions for how to do it this is
+
+702
+00:25:05,000 --> 00:25:08,000
+advice I often give to Founders NYC who
+
+703
+00:25:07,000 --> 00:25:11,000
+are pivoting and who are looking for a
+
+704
+00:25:09,000 --> 00:25:14,000
+new idea here's how it works
+
+705
+00:25:12,000 --> 00:25:17,000
+for each founder on your team
+
+706
+00:25:14,000 --> 00:25:19,000
+go through every job you've ever had
+
+707
+00:25:17,000 --> 00:25:22,000
+plus all your internships plus like
+
+708
+00:25:20,000 --> 00:25:25,000
+other life experiences
+
+709
+00:25:23,000 --> 00:25:26,000
+and think really carefully about each of
+
+710
+00:25:25,000 --> 00:25:29,000
+them
+
+711
+00:25:26,000 --> 00:25:31,000
+what problems did you come across
+
+712
+00:25:30,000 --> 00:25:33,000
+what did you learn that other people
+
+713
+00:25:32,000 --> 00:25:35,000
+don't know
+
+714
+00:25:34,000 --> 00:25:38,000
+What are problems or opportunities that
+
+715
+00:25:36,000 --> 00:25:39,000
+you've been in kind of a special
+
+716
+00:25:38,000 --> 00:25:42,000
+position to see
+
+717
+00:25:40,000 --> 00:25:45,000
+those are the best places to start
+
+718
+00:25:42,000 --> 00:25:46,000
+looking for startup ideas okay the next
+
+719
+00:25:45,000 --> 00:25:48,000
+one is to just think of things you
+
+720
+00:25:47,000 --> 00:25:50,000
+personally wish existed this is like a
+
+721
+00:25:49,000 --> 00:25:52,000
+really classic recipe this is very
+
+722
+00:25:50,000 --> 00:25:54,000
+common advice great example of this is
+
+723
+00:25:52,000 --> 00:25:55,000
+doordash the short story of doordash is
+
+724
+00:25:55,000 --> 00:25:58,000
+that the founders of doordash were
+
+725
+00:25:56,000 --> 00:25:59,000
+undergrads at Stanford and the thing
+
+726
+00:25:58,000 --> 00:26:01,000
+they really wanted was to be able to
+
+727
+00:26:00,000 --> 00:26:03,000
+just order food from local restaurants
+
+728
+00:26:01,000 --> 00:26:04,000
+and have it delivered to their dorm and
+
+729
+00:26:03,000 --> 00:26:07,000
+before doordash you couldn't do that so
+
+730
+00:26:05,000 --> 00:26:09,000
+they started doordash and this is a
+
+731
+00:26:08,000 --> 00:26:12,000
+great recipe but
+
+732
+00:26:10,000 --> 00:26:14,000
+this is the recipe that is most
+
+733
+00:26:13,000 --> 00:26:17,000
+dangerous and potentially leading to tar
+
+734
+00:26:15,000 --> 00:26:18,000
+pit ideas so if you're using this recipe
+
+735
+00:26:17,000 --> 00:26:20,000
+you just gotta stop and think for a
+
+736
+00:26:19,000 --> 00:26:22,000
+second is there a reason why this thing
+
+737
+00:26:20,000 --> 00:26:24,000
+doesn't exist yet okay the next one is
+
+738
+00:26:23,000 --> 00:26:26,000
+to look for things in the world that
+
+739
+00:26:24,000 --> 00:26:28,000
+have changed recently that might have
+
+740
+00:26:26,000 --> 00:26:30,000
+created a new opportunity a great
+
+741
+00:26:28,000 --> 00:26:32,000
+example of this is covet
+
+742
+00:26:30,000 --> 00:26:35,000
+so when the pandemic started it changed
+
+743
+00:26:32,000 --> 00:26:36,000
+daily life for all of us and many
+
+744
+00:26:35,000 --> 00:26:38,000
+Founders realize that this created the
+
+745
+00:26:37,000 --> 00:26:40,000
+opportunity for new companies and some
+
+746
+00:26:39,000 --> 00:26:41,000
+very successful startups came out of it
+
+747
+00:26:41,000 --> 00:26:44,000
+and
+
+748
+00:26:42,000 --> 00:26:45,000
+one of them is this company called
+
+749
+00:26:44,000 --> 00:26:47,000
+gather town which builds like this fun
+
+750
+00:26:46,000 --> 00:26:49,000
+way to hang out with other people online
+
+751
+00:26:48,000 --> 00:26:51,000
+and the founders of gathered town were
+
+752
+00:26:50,000 --> 00:26:53,000
+actually working on a different idea
+
+753
+00:26:51,000 --> 00:26:55,000
+that wasn't going so well and when the
+
+754
+00:26:53,000 --> 00:26:56,000
+pandemic started they pivoted to this
+
+755
+00:26:55,000 --> 00:26:58,000
+because it was obvious that like the
+
+756
+00:26:57,000 --> 00:27:01,000
+change in behavior of the pandemic had
+
+757
+00:26:59,000 --> 00:27:03,000
+created a bunch of new opportunities you
+
+758
+00:27:01,000 --> 00:27:05,000
+can also look for companies that have
+
+759
+00:27:03,000 --> 00:27:08,000
+been successful recently and look for
+
+760
+00:27:06,000 --> 00:27:10,000
+new variants on them
+
+761
+00:27:08,000 --> 00:27:12,000
+a good example of this is a company
+
+762
+00:27:10,000 --> 00:27:14,000
+called Nuvo cargo Nuvo cargo is a good
+
+763
+00:27:13,000 --> 00:27:16,000
+example of explicitly sitting down to
+
+764
+00:27:15,000 --> 00:27:17,000
+try to think about startup ideas and
+
+765
+00:27:16,000 --> 00:27:18,000
+actually finding a good one which is the
+
+766
+00:27:17,000 --> 00:27:20,000
+thing that I told you is hard to do
+
+767
+00:27:19,000 --> 00:27:24,000
+pneumo cargo is basically flexport for
+
+768
+00:27:21,000 --> 00:27:26,000
+Latin America they help U.S companies to
+
+769
+00:27:24,000 --> 00:27:28,000
+import stuff from Mexico
+
+770
+00:27:26,000 --> 00:27:30,000
+and the story of nuva cargo is that
+
+771
+00:27:28,000 --> 00:27:32,000
+Deepak the founder was working on a
+
+772
+00:27:30,000 --> 00:27:34,000
+different idea NYC and he realized that
+
+773
+00:27:32,000 --> 00:27:36,000
+his idea wasn't going to work
+
+774
+00:27:35,000 --> 00:27:39,000
+and he went on like a systematic search
+
+775
+00:27:37,000 --> 00:27:42,000
+for better ideas
+
+776
+00:27:39,000 --> 00:27:43,000
+and he picked Nuvo cargo for for very
+
+777
+00:27:42,000 --> 00:27:45,000
+analytical reasons he picked it because
+
+778
+00:27:44,000 --> 00:27:47,000
+it was a large Market
+
+779
+00:27:45,000 --> 00:27:49,000
+because they were good
+
+780
+00:27:47,000 --> 00:27:51,000
+proxies from other companies flexport
+
+781
+00:27:49,000 --> 00:27:53,000
+and he picked it even though he didn't
+
+782
+00:27:52,000 --> 00:27:57,000
+have deep domain expertise in the import
+
+783
+00:27:54,000 --> 00:27:57,000
+export space because he had some
+
+784
+00:27:57,000 --> 00:28:00,000
+connections that would enable him to get
+
+785
+00:27:58,000 --> 00:28:01,000
+started and he felt like he would just
+
+786
+00:28:00,000 --> 00:28:04,000
+be very good at running this kind of
+
+787
+00:28:02,000 --> 00:28:06,000
+operationally intensive business
+
+788
+00:28:04,000 --> 00:28:08,000
+and that worked really well Niva cargo
+
+789
+00:28:06,000 --> 00:28:11,000
+is doing super well you can also go and
+
+790
+00:28:09,000 --> 00:28:13,000
+talk to people and just ask them what
+
+791
+00:28:11,000 --> 00:28:14,000
+problems they have this this can work
+
+792
+00:28:13,000 --> 00:28:17,000
+the the downside with this recipe is it
+
+793
+00:28:15,000 --> 00:28:19,000
+actually requires a lot of skill if you
+
+794
+00:28:17,000 --> 00:28:22,000
+want to do this I would recommend first
+
+795
+00:28:19,000 --> 00:28:24,000
+picking a fertile idea space and then
+
+796
+00:28:23,000 --> 00:28:27,000
+going and talking to people within that
+
+797
+00:28:25,000 --> 00:28:30,000
+idea space and I would also recommend
+
+798
+00:28:27,000 --> 00:28:32,000
+talking not just to potential customers
+
+799
+00:28:30,000 --> 00:28:36,000
+but also to potent but also to founders
+
+800
+00:28:33,000 --> 00:28:38,000
+of companies in that idea space to get
+
+801
+00:28:36,000 --> 00:28:39,000
+advice about what ideas are actually
+
+802
+00:28:38,000 --> 00:28:42,000
+worth pursuing and a good example of
+
+803
+00:28:40,000 --> 00:28:44,000
+doing this successfully is a to B and A
+
+804
+00:28:43,000 --> 00:28:46,000
+to B was in the position that a lot of
+
+805
+00:28:45,000 --> 00:28:48,000
+Founders that struggle to find good
+
+806
+00:28:47,000 --> 00:28:50,000
+startup ideas are in which is that the
+
+807
+00:28:48,000 --> 00:28:51,000
+founders were pretty young and they
+
+808
+00:28:50,000 --> 00:28:54,000
+hadn't acquired a lot of specific domain
+
+809
+00:28:52,000 --> 00:28:55,000
+expertise like the resi founders had yet
+
+810
+00:28:54,000 --> 00:28:56,000
+but they really wanted to do a startup
+
+811
+00:28:56,000 --> 00:28:59,000
+and they wanted to do a startup that had
+
+812
+00:28:57,000 --> 00:29:00,000
+like a genuinely good idea the way that
+
+813
+00:28:59,000 --> 00:29:03,000
+they came up with the idea for ADB was
+
+814
+00:29:01,000 --> 00:29:05,000
+very systematic and so I'm going to walk
+
+815
+00:29:03,000 --> 00:29:07,000
+you through how they did it and really
+
+816
+00:29:05,000 --> 00:29:09,000
+break it down for you so A to B makes
+
+817
+00:29:08,000 --> 00:29:12,000
+fuel cards and if you haven't heard of a
+
+818
+00:29:10,000 --> 00:29:14,000
+fuel card it's like a special kind of
+
+819
+00:29:12,000 --> 00:29:16,000
+credit card for truck drivers when the A
+
+820
+00:29:15,000 --> 00:29:19,000
+to B Founders got into YC they pivoted
+
+821
+00:29:17,000 --> 00:29:21,000
+and they spent the whole YC batch
+
+822
+00:29:19,000 --> 00:29:24,000
+looking for a new idea and here's how
+
+823
+00:29:21,000 --> 00:29:25,000
+they did it first they picked an idea
+
+824
+00:29:24,000 --> 00:29:27,000
+space and the idea space that they
+
+825
+00:29:26,000 --> 00:29:30,000
+picked was essentially software for the
+
+826
+00:29:28,000 --> 00:29:32,000
+trucking industry
+
+827
+00:29:30,000 --> 00:29:34,000
+and they picked this idea space despite
+
+828
+00:29:33,000 --> 00:29:37,000
+not being experts at the trucking
+
+829
+00:29:35,000 --> 00:29:40,000
+industry because they felt that it just
+
+830
+00:29:38,000 --> 00:29:42,000
+should be a fertile idea space to go
+
+831
+00:29:40,000 --> 00:29:44,000
+hunting for startup ideas the trucking
+
+832
+00:29:42,000 --> 00:29:46,000
+industry is as like Big Industry hasn't
+
+833
+00:29:45,000 --> 00:29:48,000
+been that disrupted by startups and
+
+834
+00:29:47,000 --> 00:29:50,000
+software yet so they just felt like
+
+835
+00:29:48,000 --> 00:29:52,000
+there were probably some good problems
+
+836
+00:29:50,000 --> 00:29:54,000
+to work on in the trucking industry but
+
+837
+00:29:53,000 --> 00:29:55,000
+the problem is
+
+838
+00:29:54,000 --> 00:29:56,000
+they didn't know that much about the
+
+839
+00:29:55,000 --> 00:29:58,000
+trucking industry so they didn't know
+
+840
+00:29:57,000 --> 00:30:01,000
+what those problems were and so they
+
+841
+00:29:58,000 --> 00:30:03,000
+decided that they would turn themselves
+
+842
+00:30:01,000 --> 00:30:06,000
+into experts in the trucking industry
+
+843
+00:30:04,000 --> 00:30:08,000
+and what they did is they actually
+
+844
+00:30:06,000 --> 00:30:09,000
+physically drove two truck stops which
+
+845
+00:30:08,000 --> 00:30:10,000
+were places where truck drivers are just
+
+846
+00:30:10,000 --> 00:30:13,000
+kind of
+
+847
+00:30:11,000 --> 00:30:15,000
+Milling about and they would just walk
+
+848
+00:30:13,000 --> 00:30:17,000
+up to truck drivers and like start
+
+849
+00:30:16,000 --> 00:30:20,000
+talking to them and ask them questions
+
+850
+00:30:18,000 --> 00:30:22,000
+about what their problems were
+
+851
+00:30:20,000 --> 00:30:23,000
+they also talked to a lot of Founders
+
+852
+00:30:23,000 --> 00:30:28,000
+who had started companies in the
+
+853
+00:30:24,000 --> 00:30:29,000
+trucking space to get ideas for what
+
+854
+00:30:28,000 --> 00:30:32,000
+problems were actually worth working on
+
+855
+00:30:30,000 --> 00:30:33,000
+they would basically talk to like anyone
+
+856
+00:30:32,000 --> 00:30:35,000
+who knew anything about Trucking that
+
+857
+00:30:34,000 --> 00:30:38,000
+was willing to talk to them and as they
+
+858
+00:30:36,000 --> 00:30:40,000
+did that they began to put together like
+
+859
+00:30:38,000 --> 00:30:42,000
+a mental map of the space and where the
+
+860
+00:30:41,000 --> 00:30:45,000
+good ideas were where the bad ideas were
+
+861
+00:30:43,000 --> 00:30:46,000
+and they actually went through a whole
+
+862
+00:30:45,000 --> 00:30:48,000
+bunch of different potential ideas
+
+863
+00:30:47,000 --> 00:30:52,000
+before eventually deciding to work on
+
+864
+00:30:49,000 --> 00:30:54,000
+fuel cards and I love the example of a
+
+865
+00:30:52,000 --> 00:30:56,000
+to B Because A to B is one of the best
+
+866
+00:30:55,000 --> 00:30:59,000
+new ideas to come out of YC in several
+
+867
+00:30:57,000 --> 00:31:01,000
+years A to B is a phenomenal company and
+
+868
+00:31:00,000 --> 00:31:03,000
+the approach that they used to find this
+
+869
+00:31:01,000 --> 00:31:07,000
+idea is something that really anyone
+
+870
+00:31:03,000 --> 00:31:09,000
+could do and most Founders don't do this
+
+871
+00:31:07,000 --> 00:31:11,000
+because it just sounds like too much
+
+872
+00:31:10,000 --> 00:31:14,000
+work so if you're willing to put in the
+
+873
+00:31:12,000 --> 00:31:16,000
+work this is an amazing way to find a
+
+874
+00:31:14,000 --> 00:31:18,000
+startup idea okay and my last recipe is
+
+875
+00:31:17,000 --> 00:31:20,000
+to just like look for big industries
+
+876
+00:31:19,000 --> 00:31:22,000
+that seem broken
+
+877
+00:31:21,000 --> 00:31:24,000
+any Big Industry that seems broken is
+
+878
+00:31:23,000 --> 00:31:26,000
+probably right for disruption and
+
+879
+00:31:25,000 --> 00:31:30,000
+finally I've got kind of a bonus recipe
+
+880
+00:31:26,000 --> 00:31:31,000
+which is to just find a co-founder that
+
+881
+00:31:30,000 --> 00:31:33,000
+already has an idea they're actually
+
+882
+00:31:31,000 --> 00:31:33,000
+like a lot of people just on Startup
+
+883
+00:31:33,000 --> 00:31:35,000
+School co-founder matching right now
+
+884
+00:31:34,000 --> 00:31:37,000
+that already have an idea and are
+
+885
+00:31:36,000 --> 00:31:39,000
+looking for a co-founder so if you don't
+
+886
+00:31:38,000 --> 00:31:41,000
+have a co-founder and you don't have an
+
+887
+00:31:39,000 --> 00:31:42,000
+idea that could be a great hack to
+
+888
+00:31:41,000 --> 00:31:44,000
+getting both at the same time the last
+
+889
+00:31:43,000 --> 00:31:46,000
+point that I want to leave you with is
+
+890
+00:31:45,000 --> 00:31:49,000
+just to remember that it's often hard to
+
+891
+00:31:47,000 --> 00:31:51,000
+tell if a startup idea is good or not
+
+892
+00:31:49,000 --> 00:31:54,000
+and so while I hope the concepts that I
+
+893
+00:31:52,000 --> 00:31:56,000
+talked about here will help
+
+894
+00:31:54,000 --> 00:31:58,000
+typically the only way to know for sure
+
+895
+00:31:57,000 --> 00:32:02,000
+if your startup idea is good is to Just
+
+896
+00:31:59,000 --> 00:32:03,000
+Launch it and find out so if after all
+
+897
+00:32:02,000 --> 00:32:04,000
+this you've got a startup idea and
+
+898
+00:32:04,000 --> 00:32:07,000
+you're still kind of on the fence about
+
+899
+00:32:05,000 --> 00:32:09,000
+whether it's actually a good idea or not
+
+900
+00:32:07,000 --> 00:32:11,000
+that is my advice for you just launch it
+
+901
+00:32:09,000 --> 00:32:22,000
+and find it
+
+902
+00:32:12,000 --> 00:32:22,000
+[Music]
+
